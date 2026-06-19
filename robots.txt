@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Beautiful
+Sitemap: https://olyngor.com/sitemap.xml
